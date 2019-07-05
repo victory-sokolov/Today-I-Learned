@@ -30,4 +30,4 @@ pip install -r requirements.txt
 ---
 ### References
 
-(Pipenv & Virtual Environments)[https://docs.python-guide.org/dev/virtualenvs/]
+[Pipenv & Virtual Environments](https://docs.python-guide.org/dev/virtualenvs/)
