@@ -29,3 +29,8 @@ DOWNLOADER_MIDDLEWARES = {
     'parser_name.middlewares.UserAgentRotatorMiddleware' : 400,
 }
 ```
+
+Get current User-Agent
+```python
+response.request.headers.get('User-Agent')
+```
