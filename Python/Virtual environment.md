@@ -27,24 +27,18 @@ pipreqs project_folder
 pip install -r requirements.txt
 ```
 
-# Virtual env in Windows10
+# Virtual env in Windows10 using VENV
 
-In your Command Prompt navigate to your project:
+create new virtual env
 
-`cd your_project`
+```python
+python -m venv project_name`
+```
+activate virtual env
 
-Within your project:
-
-`virtualenv env`
-
-Activate your virtualenv: on Windows, virtualenv creates a batch file
-
-`\env\Scripts\activate.bat`
-
-to activate virtualenv on Windows, activate script is in the Scripts folder :
-
-`\path\to\env\Scripts\activate`
-
+```python
+source project_name/Scripts/activate
+```
 ---
 ### References
 
