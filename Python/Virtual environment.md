@@ -27,7 +27,7 @@ pipreqs project_folder
 pip install -r requirements.txt
 ```
 
-# Virtual env in Windows10 using VENV
+# Virtual environment in Windows10 using VENV
 
 create new virtual env
 
@@ -39,6 +39,12 @@ activate virtual env
 ```python
 source project_name/Scripts/activate
 ```
+Using different python version
+
+```python
+py -3.6 -m venv test
+```
+
 ---
 ### References
 
