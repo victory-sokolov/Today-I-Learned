@@ -11,7 +11,7 @@ python3 -m venv env-name
 - `deactivate` - return to global environment
 - `source myenv/bin/activate` - activates environment
 
-- download all modules into text file
+- save all modules into text file
 ```python
 pip freeze --local > requirements.txt
 ```
