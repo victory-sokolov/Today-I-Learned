@@ -26,5 +26,7 @@ Bus 001 Device 005: ID 0408:2fb1 Quanta Computer, Inc.
 ### References:
 
 https://dev.to/nicole/running-macos-on-windows-10-with-wsl2-kvm-and-qemu-21e1
+
 https://boxofcables.dev/accelerated-kvm-guests-on-wsl-2/
+
 https://homanhuang.medium.com/install-mac-on-wsl2-prepare-for-ios-editing-eb867a2b2b67
