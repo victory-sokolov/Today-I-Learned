@@ -21,3 +21,9 @@ if `canAddClass` is `true` we will add `cls-two` class
 	....
 </div>
 ```
+
+#### Reference: 
+
+https://ultimatecourses.com/blog/ng-class-angular-classes
+
+---
